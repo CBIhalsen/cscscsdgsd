@@ -1,0 +1,41 @@
+[
+  {
+    "containerId": "page1",
+    "width": 595.5,
+    "height": 842.25,
+    "unit": "pt",
+    "marginTop": 30,
+    "marginRight": 30,
+    "marginBottom": 30,
+    "marginLeft": 30,
+    "children": [
+      {
+        "html": "<p style=\"font-size:12pt\"><span style=\"font-weight:bold\">甲方：</span><span style=\"width:27.05pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:63.8pt\">&nbsp;</span><span style=\"font-weight:bold\">中小企业发展</span><span style=\"font-size:10.5pt\">基金</span><span style=\"font-weight:bold\">海通（合肥）合伙企业（有限合伙）</span><span>（</span><span>“</span><span style=\"font-weight:bold\">海通中小基金</span><span>”</span><span>），一家依照中国法律注册成立并有效存续的合伙企业，执行事务合伙人为海通开元投资有限公司，</span><span>James Harrison</span><span style=\"font-size:10.5pt\">注册地址为</span><span>安徽省合肥市肥西县上派镇馆驿路肥西县农商行</span><span>20</span><span>楼</span><span style=\"font-size:10.5pt\">；</span></p>"
+      },
+      {
+        "html": "<p style=\"font-size:12pt\"><span style=\"-aw-import:ignore\">&nbsp;</span></p>"
+      }
+    ]
+  },
+  {
+    "containerId": "page2",
+    "width": 595.5,
+    "height": 842.25,
+    "unit": "pt",
+    "marginTop": 30,
+    "marginRight": 30,
+    "marginBottom": 30,
+    "marginLeft": 30,
+    "children": [
+      {
+        "html": "<p style=\"font-size:20px;font-weight:bold;text-align:center;\">欢迎使用极简HTML虚拟DOM</p>"
+      },
+      {
+        "html": "<p><b>每个节点只存html字段，所有样式都内联！</b></p>"
+      },
+      {
+        "html": "<p><span>可直接输入<latex>$E=mc^2$</latex>或<latex>$x^2+y^2=z^2$</latex>​，会自动渲染。</span></p>"
+      }
+    ]
+  }
+]
