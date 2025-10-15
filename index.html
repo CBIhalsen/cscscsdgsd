@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>Demo JSON 展示</title>
+</head>
+<body>
+  <h1>Demo JSON 数据</h1>
+  <pre id="json-view"></pre>
+
+  <script>
+    fetch('public/demo.json')
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById('json-view').textContent = JSON.stringify(data, null, 2);
+      });
+  </script>
+</body>
+</html>
