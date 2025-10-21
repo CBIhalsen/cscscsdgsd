@@ -1,5 +1,11 @@
 [
   {
+    "headerFooter": {
+      "header": "",
+      "footer": "%"
+    }
+  },
+  {
     "containerId": "page1",
     "width": 595.5,
     "height": 842.25,
